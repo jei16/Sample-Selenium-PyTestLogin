@@ -1,3 +1,3 @@
 # Sample-Selenium-PyTestLogin
 
-Just a simple program for testing of login page of a sample website with Selenium using Python.
+A simple Selenium program written in Python for testing the login page of a sample website.
